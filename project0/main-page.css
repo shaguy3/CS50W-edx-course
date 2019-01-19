@@ -1,0 +1,20 @@
+nav {
+	background-color: lightgrey;
+	padding-left: 20px;
+	word-spacing: 10px;
+}
+td {
+	background-color: red;
+	text-align: center;
+	height: 100px;
+}
+table {
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+li > p {
+	margin-left: 40px;
+}
