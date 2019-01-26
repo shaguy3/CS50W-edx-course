@@ -21,3 +21,6 @@ table {
 li > p {
 	margin-left: 40px;
 }
+.nav-link {
+	color: red;
+}
